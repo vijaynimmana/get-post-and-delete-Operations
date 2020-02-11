@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "employee_name": "chowdhary",
+      "employee_salary": "222",
+      "employee_age": "21"
+    },
+    {
+      "id": "2",
+      "employee_name": "chuu",
+      "employee_salary": "5555555",
+      "employee_age": "22"
+    },
+    {
+      "id": "3",
+      "employee_name": "sasasasas",
+      "employee_salary": "5549",
+      "employee_age": "32"
+    }
+  ]
+}
